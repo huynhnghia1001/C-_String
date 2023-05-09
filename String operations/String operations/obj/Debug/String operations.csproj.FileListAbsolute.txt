@@ -1,0 +1,8 @@
+E:\C#\5_4_2023\C# Strings\String operations\String operations\obj\Debug\String operations.csproj.AssemblyReference.cache
+E:\C#\5_4_2023\C# Strings\String operations\String operations\obj\Debug\String operations.csproj.SuggestedBindingRedirects.cache
+E:\C#\5_4_2023\C# Strings\String operations\String operations\obj\Debug\String operations.csproj.CoreCompileInputs.cache
+E:\C#\5_4_2023\C# Strings\String operations\String operations\bin\Debug\String operations.exe.config
+E:\C#\5_4_2023\C# Strings\String operations\String operations\bin\Debug\String operations.exe
+E:\C#\5_4_2023\C# Strings\String operations\String operations\bin\Debug\String operations.pdb
+E:\C#\5_4_2023\C# Strings\String operations\String operations\obj\Debug\String operations.exe
+E:\C#\5_4_2023\C# Strings\String operations\String operations\obj\Debug\String operations.pdb

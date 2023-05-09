@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\C# Strings\String parsing\String parsing\bin\Debug\String parsing.exe.config
+E:\C#\8_5_2023\C# Strings\String parsing\String parsing\bin\Debug\String parsing.exe
+E:\C#\8_5_2023\C# Strings\String parsing\String parsing\bin\Debug\String parsing.pdb
+E:\C#\8_5_2023\C# Strings\String parsing\String parsing\obj\Debug\String parsing.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Strings\String parsing\String parsing\obj\Debug\String parsing.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Strings\String parsing\String parsing\obj\Debug\String parsing.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Strings\String parsing\String parsing\obj\Debug\String parsing.exe
+E:\C#\8_5_2023\C# Strings\String parsing\String parsing\obj\Debug\String parsing.pdb

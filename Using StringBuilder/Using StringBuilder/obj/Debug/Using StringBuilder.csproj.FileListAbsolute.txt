@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\C# Strings\Using StringBuilder\Using StringBuilder\bin\Debug\Using StringBuilder.exe.config
+E:\C#\8_5_2023\C# Strings\Using StringBuilder\Using StringBuilder\bin\Debug\Using StringBuilder.exe
+E:\C#\8_5_2023\C# Strings\Using StringBuilder\Using StringBuilder\bin\Debug\Using StringBuilder.pdb
+E:\C#\8_5_2023\C# Strings\Using StringBuilder\Using StringBuilder\obj\Debug\Using StringBuilder.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Strings\Using StringBuilder\Using StringBuilder\obj\Debug\Using StringBuilder.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Strings\Using StringBuilder\Using StringBuilder\obj\Debug\Using StringBuilder.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Strings\Using StringBuilder\Using StringBuilder\obj\Debug\Using StringBuilder.exe
+E:\C#\8_5_2023\C# Strings\Using StringBuilder\Using StringBuilder\obj\Debug\Using StringBuilder.pdb

@@ -1,0 +1,16 @@
+E:\C#\5_4_2023\C# Strings\String formatting\String formatting\bin\Debug\String formatting.exe.config
+E:\C#\5_4_2023\C# Strings\String formatting\String formatting\bin\Debug\String formatting.exe
+E:\C#\5_4_2023\C# Strings\String formatting\String formatting\bin\Debug\String formatting.pdb
+E:\C#\5_4_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.csproj.AssemblyReference.cache
+E:\C#\5_4_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.csproj.SuggestedBindingRedirects.cache
+E:\C#\5_4_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.csproj.CoreCompileInputs.cache
+E:\C#\5_4_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.exe
+E:\C#\5_4_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.pdb
+E:\C#\8_5_2023\C# Strings\String formatting\String formatting\bin\Debug\String formatting.exe.config
+E:\C#\8_5_2023\C# Strings\String formatting\String formatting\bin\Debug\String formatting.exe
+E:\C#\8_5_2023\C# Strings\String formatting\String formatting\bin\Debug\String formatting.pdb
+E:\C#\8_5_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.exe
+E:\C#\8_5_2023\C# Strings\String formatting\String formatting\obj\Debug\String formatting.pdb

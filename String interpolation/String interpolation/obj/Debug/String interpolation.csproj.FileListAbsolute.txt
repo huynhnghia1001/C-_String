@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\C# Strings\String interpolation\String interpolation\bin\Debug\String interpolation.exe.config
+E:\C#\8_5_2023\C# Strings\String interpolation\String interpolation\bin\Debug\String interpolation.exe
+E:\C#\8_5_2023\C# Strings\String interpolation\String interpolation\bin\Debug\String interpolation.pdb
+E:\C#\8_5_2023\C# Strings\String interpolation\String interpolation\obj\Debug\String interpolation.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Strings\String interpolation\String interpolation\obj\Debug\String interpolation.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Strings\String interpolation\String interpolation\obj\Debug\String interpolation.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Strings\String interpolation\String interpolation\obj\Debug\String interpolation.exe
+E:\C#\8_5_2023\C# Strings\String interpolation\String interpolation\obj\Debug\String interpolation.pdb

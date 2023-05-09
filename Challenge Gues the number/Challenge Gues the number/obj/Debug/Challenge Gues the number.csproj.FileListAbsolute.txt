@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\C# Strings\Challenge Gues the number\Challenge Gues the number\bin\Debug\Challenge Gues the number.exe.config
+E:\C#\8_5_2023\C# Strings\Challenge Gues the number\Challenge Gues the number\bin\Debug\Challenge Gues the number.exe
+E:\C#\8_5_2023\C# Strings\Challenge Gues the number\Challenge Gues the number\bin\Debug\Challenge Gues the number.pdb
+E:\C#\8_5_2023\C# Strings\Challenge Gues the number\Challenge Gues the number\obj\Debug\Challenge Gues the number.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\C# Strings\Challenge Gues the number\Challenge Gues the number\obj\Debug\Challenge Gues the number.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\C# Strings\Challenge Gues the number\Challenge Gues the number\obj\Debug\Challenge Gues the number.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\C# Strings\Challenge Gues the number\Challenge Gues the number\obj\Debug\Challenge Gues the number.exe
+E:\C#\8_5_2023\C# Strings\Challenge Gues the number\Challenge Gues the number\obj\Debug\Challenge Gues the number.pdb
